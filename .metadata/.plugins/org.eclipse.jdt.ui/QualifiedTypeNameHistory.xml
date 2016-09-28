@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.eclipse.jetty.server.Server"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.servlet.ServletHandler"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.servlet.ServletHolder"/>
+<fullyQualifiedTypeName name="java.net.URI"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.proxy.ProxyServlet"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.proxy.ProxyServlet.Transparent"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.servlet.ServletContextHandler"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.server.handler.ContextHandler.Context"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.servlet.ServletContextHandler.Context"/>
+<fullyQualifiedTypeName name="java.util.logging.Handler"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.server.handler.HandlerCollection"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.server.Handler"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+</qualifiedTypeNameHistroy>
